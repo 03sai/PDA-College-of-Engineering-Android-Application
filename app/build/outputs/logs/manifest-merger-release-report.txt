@@ -1,0 +1,1237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+MERGED from [com.android.support:design:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/db1992ddaa72d82fd9e26bda74e98b25/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ba0c9e793805358fd5668570d80bcd9b/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/6ab2b65968d18f8c02a0171adcd2286f/firebase-storage-16.0.4/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/997374e7413bf3f03a4f87c0520b681b/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/291ad2cd91bab1f9705bad28ca9c57ff/firebase-auth-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78c2040e4205c0c196719e89019b987b/firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ae2dcc47a14a3aa7866937f6e28d1e06/play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/39ec3359ee0f0400153a8a861f8cab19/firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c21d2e3891f565d850f4e2a1c4b8e639/firebase-measurement-connector-17.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8078e9ab4cccabfc58dfb1e122d72913/play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/12bf1759eaf4743d6dd6f727307164b1/android-pdf-viewer-2.8.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/3316f68e4e164f273a85df1361d70bba/pdfium-android-1.7.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f0391e0098d95cda47a165953e0d6d4b/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8c7df3eda863728516e25979f09425c8/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/89111ba0c3ab366f5b9ac7aa246dfe87/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/71076da603820fdd12d862c530f15d65/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ff0f11945cd1d9e1eeb6715bdc96d085/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/4f2d6b860f66ea027885bcbf5a80b38a/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/5fc35f180f298050991087250b87c83e/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d270b1b80b4c7ec4f0d29f340a1572c2/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8240bd7af73f6b810fa72a9d409417dd/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/45a9fe7b7bbf7be8998b645a28a9552d/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d89ee2a0d494d3badb1dd56914456815/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/93a2f3d5b67089b435694a41630c06c9/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8f9b43c910365a1310fbf2f6485efec8/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d3f1751e99834ef3e4d85c69e41f2e0e/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d2910b1ae769cdb5f75312c29eadc7bf/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/1af014ccdd8f5a09220ac2db208729e1/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/1fb72df1cf4d2109b414a7381b0fb3e7/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a5e639fbab1c081c9abb3cc0ba973511/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/e44aa6bb9afe9d62300de81ea471b8a5/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/2d041b7ec019db3d2de84f83493ec575/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/3b3352f59a248e942a87b64872b612fd/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a55916287b90950dc763a099a6ac5ea8/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/247fb9a222dbb089d626857749cc83ad/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/4638e7aa9809e04fa5e7fdce0b498982/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/192e93183f201fb14ebe1b28bad91e38/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/5facef56b1f61149cbc7d0252ba3024e/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/238ccc56c35f69c417a2e9418599e154/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a54afb7a45ee917249750e4647cc40f3/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/15dddb7c553e3042346c22562647662a/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a4ef4cf4ad129d62e65ef68097d608e6/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/29a2edba0f5484b47572a67b4c9d43ac/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+	package
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:1-251:12
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:5:5-246:19
+MERGED from [com.android.support:design:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/db1992ddaa72d82fd9e26bda74e98b25/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/db1992ddaa72d82fd9e26bda74e98b25/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/291ad2cd91bab1f9705bad28ca9c57ff/firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/291ad2cd91bab1f9705bad28ca9c57ff/firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78c2040e4205c0c196719e89019b987b/firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78c2040e4205c0c196719e89019b987b/firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ae2dcc47a14a3aa7866937f6e28d1e06/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ae2dcc47a14a3aa7866937f6e28d1e06/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c21d2e3891f565d850f4e2a1c4b8e639/firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c21d2e3891f565d850f4e2a1c4b8e639/firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8078e9ab4cccabfc58dfb1e122d72913/play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8078e9ab4cccabfc58dfb1e122d72913/play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8c7df3eda863728516e25979f09425c8/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8c7df3eda863728516e25979f09425c8/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/e44aa6bb9afe9d62300de81ea471b8a5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/e44aa6bb9afe9d62300de81ea471b8a5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/2d041b7ec019db3d2de84f83493ec575/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/2d041b7ec019db3d2de84f83493ec575/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/e44aa6bb9afe9d62300de81ea471b8a5/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.final_project.Splash
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:12:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.final_project.au_fourth_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:20:19-49
+activity#com.example.final_project.au_third_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:21:19-48
+activity#com.example.final_project.au_second_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:22:19-49
+activity#com.example.final_project.au_first_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:23:19-48
+activity#com.example.final_project.it_fourth_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:24:19-49
+activity#com.example.final_project.it_third_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:25:19-48
+activity#com.example.final_project.it_second_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:26:19-49
+activity#com.example.final_project.it_first_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.example.final_project.is_fourth_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:28:19-49
+activity#com.example.final_project.is_third_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:29:19-48
+activity#com.example.final_project.is_second_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:30:19-49
+activity#com.example.final_project.is_first_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:31:19-48
+activity#com.example.final_project.me_fourth_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:32:19-49
+activity#com.example.final_project.me_third_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:33:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:33:19-48
+activity#com.example.final_project.me_second_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:34:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:34:19-49
+activity#com.example.final_project.me_first_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:35:19-48
+activity#com.example.final_project.download_qp_it4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:36:19-50
+activity#com.example.final_project.download_qp_it3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:37:19-50
+activity#com.example.final_project.download_qp_it2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:38:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:38:19-50
+activity#com.example.final_project.download_qp_it1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:39:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:39:19-50
+activity#com.example.final_project.download_ebook_it4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:40:19-53
+activity#com.example.final_project.download_ebook_it3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:41:19-53
+activity#com.example.final_project.download_ebook_it2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:42:19-53
+activity#com.example.final_project.download_ebook_it1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:43:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:43:19-53
+activity#com.example.final_project.ebook_it4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:44:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:44:19-44
+activity#com.example.final_project.ebook_it3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:45:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:45:19-44
+activity#com.example.final_project.ebook_it2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:46:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:46:19-44
+activity#com.example.final_project.ebook_it1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:47:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:47:19-44
+activity#com.example.final_project.qp_it4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:48:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:48:19-41
+activity#com.example.final_project.qp_it3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:49:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:49:19-41
+activity#com.example.final_project.qp_it2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:50:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:50:19-41
+activity#com.example.final_project.qp_it1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:51:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:51:19-41
+activity#com.example.final_project.syllabus_it4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:52:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:52:19-47
+activity#com.example.final_project.syllabus_it3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:53:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:53:19-47
+activity#com.example.final_project.syllabus_it2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:54:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:54:19-47
+activity#com.example.final_project.syllabus_it1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:55:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:55:19-47
+activity#com.example.final_project.tt_it4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:56:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:56:19-41
+activity#com.example.final_project.tt_it3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:57:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:57:19-41
+activity#com.example.final_project.tt_it2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:58:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:58:19-41
+activity#com.example.final_project.tt_it1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:59:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:59:19-41
+activity#com.example.final_project.download_ebook_au4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:60:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:60:19-53
+activity#com.example.final_project.download_ebook_au3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:61:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:61:19-53
+activity#com.example.final_project.download_ebook_au2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:62:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:62:19-53
+activity#com.example.final_project.download_ebook_au1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:63:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:63:19-53
+activity#com.example.final_project.download_qp_au4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:64:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:64:19-50
+activity#com.example.final_project.download_qp_au3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:65:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:65:19-50
+activity#com.example.final_project.download_qp_au2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:66:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:66:19-50
+activity#com.example.final_project.download_qp_au1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:67:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:67:19-50
+activity#com.example.final_project.ebook_au4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:68:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:68:19-44
+activity#com.example.final_project.ebook_au3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:69:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:69:19-44
+activity#com.example.final_project.ebook_au2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:70:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:70:19-44
+activity#com.example.final_project.ebook_au1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:71:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:71:19-44
+activity#com.example.final_project.qp_au4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:72:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:72:19-41
+activity#com.example.final_project.qp_au3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:73:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:73:19-41
+activity#com.example.final_project.qp_au2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:74:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:74:19-41
+activity#com.example.final_project.qp_au1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:75:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:75:19-41
+activity#com.example.final_project.syllabus_au4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:76:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:76:19-47
+activity#com.example.final_project.syllabus_au3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:77:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:77:19-47
+activity#com.example.final_project.syllabus_au2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:78:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:78:19-47
+activity#com.example.final_project.syllabus_au1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:79:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:79:19-47
+activity#com.example.final_project.tt_au4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:80:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:80:19-41
+activity#com.example.final_project.tt_au3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:81:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:81:19-41
+activity#com.example.final_project.tt_au2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:82:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:82:19-41
+activity#com.example.final_project.tt_au1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:83:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:83:19-41
+activity#com.example.final_project.download_qp_is4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:84:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:84:19-50
+activity#com.example.final_project.download_qp_is3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:85:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:85:19-50
+activity#com.example.final_project.download_qp_is2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:86:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:86:19-50
+activity#com.example.final_project.download_qp_is1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:87:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:87:19-50
+activity#com.example.final_project.download_ebook_is4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:88:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:88:19-53
+activity#com.example.final_project.download_ebook_is3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:89:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:89:19-53
+activity#com.example.final_project.download_ebook_is2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:90:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:90:19-53
+activity#com.example.final_project.download_ebook_is1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:91:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:91:19-53
+activity#com.example.final_project.ebook_is4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:92:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:92:19-44
+activity#com.example.final_project.ebook_is3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:93:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:93:19-44
+activity#com.example.final_project.ebook_is2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:94:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:94:19-44
+activity#com.example.final_project.ebook_is1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:95:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:95:19-44
+activity#com.example.final_project.qp_is4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:96:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:96:19-41
+activity#com.example.final_project.qp_is3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:97:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:97:19-41
+activity#com.example.final_project.qp_is2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:98:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:98:19-41
+activity#com.example.final_project.qp_is1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:99:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:99:19-41
+activity#com.example.final_project.syllabus_is4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:100:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:100:19-47
+activity#com.example.final_project.syllabus_is3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:101:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:101:19-47
+activity#com.example.final_project.syllabus_is2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:102:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:102:19-47
+activity#com.example.final_project.syllabus_is1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:103:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:103:19-47
+activity#com.example.final_project.tt_is4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:104:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:104:19-41
+activity#com.example.final_project.tt_is3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:105:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:105:19-41
+activity#com.example.final_project.tt_is2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:106:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:106:19-41
+activity#com.example.final_project.tt_is1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:107:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:107:19-41
+activity#com.example.final_project.download_ebook_me4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:108:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:108:19-53
+activity#com.example.final_project.download_ebook_me3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:109:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:109:19-53
+activity#com.example.final_project.download_ebook_me2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:110:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:110:19-53
+activity#com.example.final_project.download_ebook_me1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:111:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:111:19-53
+activity#com.example.final_project.download_qp_me4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:112:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:112:19-50
+activity#com.example.final_project.download_qp_me3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:113:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:113:19-50
+activity#com.example.final_project.download_qp_me2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:114:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:114:19-50
+activity#com.example.final_project.download_qp_me1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:115:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:115:19-50
+activity#com.example.final_project.ebook_me4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:116:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:116:19-44
+activity#com.example.final_project.ebook_me3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:117:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:117:19-44
+activity#com.example.final_project.ebook_me2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:118:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:118:19-44
+activity#com.example.final_project.ebook_me1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:119:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:119:19-44
+activity#com.example.final_project.qp_me4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:120:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:120:19-41
+activity#com.example.final_project.qp_me3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:121:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:121:19-41
+activity#com.example.final_project.qp_me2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:122:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:122:19-41
+activity#com.example.final_project.qp_me1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:123:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:123:19-41
+activity#com.example.final_project.syllabus_me4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:124:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:124:19-47
+activity#com.example.final_project.syllabus_me3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:125:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:125:19-47
+activity#com.example.final_project.syllabus_me2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:126:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:126:19-47
+activity#com.example.final_project.syllabus_me1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:127:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:127:19-47
+activity#com.example.final_project.tt_me4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:128:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:128:19-41
+activity#com.example.final_project.tt_me3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:129:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:129:19-41
+activity#com.example.final_project.tt_me2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:130:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:130:19-41
+activity#com.example.final_project.tt_me1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:131:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:131:19-41
+activity#com.example.final_project.download_ebook_cv4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:132:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:132:19-53
+activity#com.example.final_project.download_ebook_cv3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:133:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:133:19-53
+activity#com.example.final_project.download_ebook_cv2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:134:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:134:19-53
+activity#com.example.final_project.download_ebook_cv1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:135:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:135:19-53
+activity#com.example.final_project.ebook_cv4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:136:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:136:19-44
+activity#com.example.final_project.ebook_cv3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:137:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:137:19-44
+activity#com.example.final_project.ebook_cv2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:138:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:138:19-44
+activity#com.example.final_project.ebook_cv1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:139:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:139:19-44
+activity#com.example.final_project.download_qp_cv4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:140:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:140:19-50
+activity#com.example.final_project.download_qp_cv3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:141:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:141:19-50
+activity#com.example.final_project.download_qp_cv2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:142:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:142:19-50
+activity#com.example.final_project.download_qp_cv1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:143:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:143:19-50
+activity#com.example.final_project.qp_cv4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:144:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:144:19-41
+activity#com.example.final_project.qp_cv3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:145:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:145:19-41
+activity#com.example.final_project.qp_cv2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:146:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:146:19-41
+activity#com.example.final_project.qp_cv1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:147:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:147:19-41
+activity#com.example.final_project.syllabus_cv4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:148:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:148:19-47
+activity#com.example.final_project.syllabus_cv3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:149:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:149:19-47
+activity#com.example.final_project.syllabus_cv2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:150:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:150:19-47
+activity#com.example.final_project.syllabus_cv1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:151:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:151:19-47
+activity#com.example.final_project.tt_cv4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:152:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:152:19-41
+activity#com.example.final_project.tt_cv3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:153:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:153:19-41
+activity#com.example.final_project.tt_cv2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:154:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:154:19-41
+activity#com.example.final_project.tt_cv1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:155:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:155:19-41
+activity#com.example.final_project.cv_fourth_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:156:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:156:19-49
+activity#com.example.final_project.cv_third_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:157:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:157:19-48
+activity#com.example.final_project.cv_second_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:158:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:158:19-49
+activity#com.example.final_project.cv_first_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:159:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:159:19-48
+activity#com.example.final_project.download_qp_ec4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:160:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:160:19-50
+activity#com.example.final_project.download_ebook_ec4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:161:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:161:19-53
+activity#com.example.final_project.ebook_ec4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:162:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:162:19-44
+activity#com.example.final_project.syllabus_ec4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:163:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:163:19-47
+activity#com.example.final_project.qp_ec4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:164:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:164:19-41
+activity#com.example.final_project.tt_ec4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:165:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:165:19-41
+activity#com.example.final_project.qp_ec3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:166:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:166:19-41
+activity#com.example.final_project.download_qp_ec3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:167:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:167:19-50
+activity#com.example.final_project.download_ebook_ec3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:168:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:168:19-53
+activity#com.example.final_project.ebook_ec3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:169:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:169:19-44
+activity#com.example.final_project.syllabus_ec3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:170:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:170:19-47
+activity#com.example.final_project.tt_ec3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:171:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:171:19-41
+activity#com.example.final_project.download_qp_ec2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:172:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:172:19-50
+activity#com.example.final_project.qp_ec2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:173:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:173:19-41
+activity#com.example.final_project.download_ebook_ec2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:174:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:174:19-53
+activity#com.example.final_project.ebook_ec2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:175:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:175:19-44
+activity#com.example.final_project.syllabus_ec2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:176:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:176:19-47
+activity#com.example.final_project.tt_ec2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:177:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:177:19-41
+activity#com.example.final_project.download_qp_ec1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:178:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:178:19-50
+activity#com.example.final_project.download_ebook_ec1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:179:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:179:19-53
+activity#com.example.final_project.ebook_ec1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:180:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:180:19-44
+activity#com.example.final_project.qp_ec1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:181:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:181:19-41
+activity#com.example.final_project.syllabus_ec1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:182:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:182:19-47
+activity#com.example.final_project.tt_ec1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:183:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:183:19-41
+activity#com.example.final_project.ec_fourth_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:184:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:184:19-49
+activity#com.example.final_project.ec_third_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:185:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:185:19-48
+activity#com.example.final_project.ec_second_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:186:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:186:19-49
+activity#com.example.final_project.ec_first_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:187:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:187:19-48
+activity#com.example.final_project.download_qp_cs4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:188:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:188:19-50
+activity#com.example.final_project.qp_cs4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:189:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:189:19-41
+activity#com.example.final_project.download_ebook_cs4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:190:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:190:19-53
+activity#com.example.final_project.ebook_cs4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:191:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:191:19-44
+activity#com.example.final_project.syllabus_cs4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:192:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:192:19-47
+activity#com.example.final_project.tt_cs4
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:193:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:193:19-41
+activity#com.example.final_project.download_ebook_cs3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:194:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:194:19-53
+activity#com.example.final_project.ebook_cs3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:195:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:195:19-44
+activity#com.example.final_project.download_qp_cs3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:196:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:196:19-50
+activity#com.example.final_project.qp_cs3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:197:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:197:19-41
+activity#com.example.final_project.syllabus_cs3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:198:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:198:19-47
+activity#com.example.final_project.tt_cs3
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:199:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:199:19-41
+activity#com.example.final_project.download_ebook_cs2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:200:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:200:19-53
+activity#com.example.final_project.ebook_cs2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:201:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:201:19-44
+activity#com.example.final_project.download_qp_cs2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:202:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:202:19-50
+activity#com.example.final_project.qp_cs2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:203:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:203:19-41
+activity#com.example.final_project.syllabus_cs2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:204:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:204:19-47
+activity#com.example.final_project.tt_cs2
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:205:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:205:19-41
+activity#com.example.final_project.About
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:206:9-43
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:206:19-40
+activity#com.example.final_project.eduwize
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:207:9-45
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:207:19-42
+activity#com.example.final_project.calender_of_events
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:208:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:208:19-53
+activity#com.example.final_project.download_qp_cs1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:209:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:209:19-50
+activity#com.example.final_project.download_ebook_cs1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:210:9-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:210:19-53
+activity#com.example.final_project.cs_fourth_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:211:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:211:19-49
+activity#com.example.final_project.cs_third_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:212:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:212:19-48
+activity#com.example.final_project.cs_second_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:213:9-52
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:213:19-49
+activity#com.example.final_project.ebook_cs1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:214:9-47
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:214:19-44
+activity#com.example.final_project.qp_cs1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:215:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:215:19-41
+activity#com.example.final_project.syllabus_cs1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:216:9-50
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:216:19-47
+activity#com.example.final_project.tt_cs1
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:217:9-44
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:217:19-41
+activity#com.example.final_project.cs_first_year
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:218:9-51
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:218:19-48
+activity#com.example.final_project.cgpa_real
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:219:9-222:59
+	android:label
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:221:13-61
+	android:theme
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:222:13-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:220:13-38
+activity#com.example.final_project.Automobile
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:223:9-48
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:223:19-45
+activity#com.example.final_project.Instrumentation_and_technology
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:224:9-68
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:224:19-65
+activity#com.example.final_project.Information_science
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:225:9-57
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:225:19-54
+activity#com.example.final_project.Civil
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:226:9-43
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:226:19-40
+activity#com.example.final_project.Mechanical
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:227:9-48
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:227:19-45
+activity#com.example.final_project.Electronics_and_Communication
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:228:9-67
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:228:19-64
+activity#com.example.final_project.Computer_Science
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:229:9-54
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:229:19-51
+activity#com.example.final_project.cgpa_calculator
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:230:9-53
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:230:19-50
+activity#com.example.final_project.MainActivity
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:231:9-240:20
+	android:label
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:233:13-45
+	android:theme
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:234:13-56
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:232:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:235:13-239:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:238:17-76
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:238:27-73
+service#com.example.final_project.FiresbaseNotification
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:242:9-245:40
+	android:enabled
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:244:13-36
+	android:exported
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:245:13-37
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:243:13-50
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:247:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/6ab2b65968d18f8c02a0171adcd2286f/firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/6ab2b65968d18f8c02a0171adcd2286f/firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:247:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:249:5-80
+	android:name
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:249:22-77
+uses-sdk
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/db1992ddaa72d82fd9e26bda74e98b25/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/db1992ddaa72d82fd9e26bda74e98b25/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ba0c9e793805358fd5668570d80bcd9b/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ba0c9e793805358fd5668570d80bcd9b/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/6ab2b65968d18f8c02a0171adcd2286f/firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/6ab2b65968d18f8c02a0171adcd2286f/firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/997374e7413bf3f03a4f87c0520b681b/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/997374e7413bf3f03a4f87c0520b681b/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/291ad2cd91bab1f9705bad28ca9c57ff/firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/291ad2cd91bab1f9705bad28ca9c57ff/firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78c2040e4205c0c196719e89019b987b/firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78c2040e4205c0c196719e89019b987b/firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ae2dcc47a14a3aa7866937f6e28d1e06/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ae2dcc47a14a3aa7866937f6e28d1e06/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/39ec3359ee0f0400153a8a861f8cab19/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/39ec3359ee0f0400153a8a861f8cab19/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c21d2e3891f565d850f4e2a1c4b8e639/firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c21d2e3891f565d850f4e2a1c4b8e639/firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8078e9ab4cccabfc58dfb1e122d72913/play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8078e9ab4cccabfc58dfb1e122d72913/play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/12bf1759eaf4743d6dd6f727307164b1/android-pdf-viewer-2.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/12bf1759eaf4743d6dd6f727307164b1/android-pdf-viewer-2.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/3316f68e4e164f273a85df1361d70bba/pdfium-android-1.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/3316f68e4e164f273a85df1361d70bba/pdfium-android-1.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f0391e0098d95cda47a165953e0d6d4b/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f0391e0098d95cda47a165953e0d6d4b/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8c7df3eda863728516e25979f09425c8/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8c7df3eda863728516e25979f09425c8/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/89111ba0c3ab366f5b9ac7aa246dfe87/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/89111ba0c3ab366f5b9ac7aa246dfe87/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/71076da603820fdd12d862c530f15d65/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/71076da603820fdd12d862c530f15d65/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ff0f11945cd1d9e1eeb6715bdc96d085/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/ff0f11945cd1d9e1eeb6715bdc96d085/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/4f2d6b860f66ea027885bcbf5a80b38a/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/4f2d6b860f66ea027885bcbf5a80b38a/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/5fc35f180f298050991087250b87c83e/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/5fc35f180f298050991087250b87c83e/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d270b1b80b4c7ec4f0d29f340a1572c2/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d270b1b80b4c7ec4f0d29f340a1572c2/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8240bd7af73f6b810fa72a9d409417dd/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8240bd7af73f6b810fa72a9d409417dd/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/45a9fe7b7bbf7be8998b645a28a9552d/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/45a9fe7b7bbf7be8998b645a28a9552d/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d89ee2a0d494d3badb1dd56914456815/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d89ee2a0d494d3badb1dd56914456815/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/93a2f3d5b67089b435694a41630c06c9/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/93a2f3d5b67089b435694a41630c06c9/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8f9b43c910365a1310fbf2f6485efec8/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/8f9b43c910365a1310fbf2f6485efec8/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d3f1751e99834ef3e4d85c69e41f2e0e/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d3f1751e99834ef3e4d85c69e41f2e0e/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d2910b1ae769cdb5f75312c29eadc7bf/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/d2910b1ae769cdb5f75312c29eadc7bf/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/1af014ccdd8f5a09220ac2db208729e1/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/1af014ccdd8f5a09220ac2db208729e1/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/1fb72df1cf4d2109b414a7381b0fb3e7/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/1fb72df1cf4d2109b414a7381b0fb3e7/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a5e639fbab1c081c9abb3cc0ba973511/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a5e639fbab1c081c9abb3cc0ba973511/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/e44aa6bb9afe9d62300de81ea471b8a5/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/e44aa6bb9afe9d62300de81ea471b8a5/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/2d041b7ec019db3d2de84f83493ec575/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/2d041b7ec019db3d2de84f83493ec575/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/3b3352f59a248e942a87b64872b612fd/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/3b3352f59a248e942a87b64872b612fd/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a55916287b90950dc763a099a6ac5ea8/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a55916287b90950dc763a099a6ac5ea8/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/247fb9a222dbb089d626857749cc83ad/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/247fb9a222dbb089d626857749cc83ad/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/4638e7aa9809e04fa5e7fdce0b498982/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/4638e7aa9809e04fa5e7fdce0b498982/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/192e93183f201fb14ebe1b28bad91e38/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/192e93183f201fb14ebe1b28bad91e38/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/5facef56b1f61149cbc7d0252ba3024e/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/5facef56b1f61149cbc7d0252ba3024e/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/238ccc56c35f69c417a2e9418599e154/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/238ccc56c35f69c417a2e9418599e154/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a54afb7a45ee917249750e4647cc40f3/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a54afb7a45ee917249750e4647cc40f3/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/15dddb7c553e3042346c22562647662a/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/15dddb7c553e3042346c22562647662a/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a4ef4cf4ad129d62e65ef68097d608e6/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/a4ef4cf4ad129d62e65ef68097d608e6/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/29a2edba0f5484b47572a67b4c9d43ac/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/29a2edba0f5484b47572a67b4c9d43ac/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/6ab2b65968d18f8c02a0171adcd2286f/firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/6ab2b65968d18f8c02a0171adcd2286f/firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:24:13-58

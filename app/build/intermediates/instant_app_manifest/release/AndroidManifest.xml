@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.final_project"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.final_project.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.final_project.au_fourth_year" />
+        <activity android:name="com.example.final_project.au_third_year" />
+        <activity android:name="com.example.final_project.au_second_year" />
+        <activity android:name="com.example.final_project.au_first_year" />
+        <activity android:name="com.example.final_project.it_fourth_year" />
+        <activity android:name="com.example.final_project.it_third_year" />
+        <activity android:name="com.example.final_project.it_second_year" />
+        <activity android:name="com.example.final_project.it_first_year" />
+        <activity android:name="com.example.final_project.is_fourth_year" />
+        <activity android:name="com.example.final_project.is_third_year" />
+        <activity android:name="com.example.final_project.is_second_year" />
+        <activity android:name="com.example.final_project.is_first_year" />
+        <activity android:name="com.example.final_project.me_fourth_year" />
+        <activity android:name="com.example.final_project.me_third_year" />
+        <activity android:name="com.example.final_project.me_second_year" />
+        <activity android:name="com.example.final_project.me_first_year" />
+        <activity android:name="com.example.final_project.download_qp_it4" />
+        <activity android:name="com.example.final_project.download_qp_it3" />
+        <activity android:name="com.example.final_project.download_qp_it2" />
+        <activity android:name="com.example.final_project.download_qp_it1" />
+        <activity android:name="com.example.final_project.download_ebook_it4" />
+        <activity android:name="com.example.final_project.download_ebook_it3" />
+        <activity android:name="com.example.final_project.download_ebook_it2" />
+        <activity android:name="com.example.final_project.download_ebook_it1" />
+        <activity android:name="com.example.final_project.ebook_it4" />
+        <activity android:name="com.example.final_project.ebook_it3" />
+        <activity android:name="com.example.final_project.ebook_it2" />
+        <activity android:name="com.example.final_project.ebook_it1" />
+        <activity android:name="com.example.final_project.qp_it4" />
+        <activity android:name="com.example.final_project.qp_it3" />
+        <activity android:name="com.example.final_project.qp_it2" />
+        <activity android:name="com.example.final_project.qp_it1" />
+        <activity android:name="com.example.final_project.syllabus_it4" />
+        <activity android:name="com.example.final_project.syllabus_it3" />
+        <activity android:name="com.example.final_project.syllabus_it2" />
+        <activity android:name="com.example.final_project.syllabus_it1" />
+        <activity android:name="com.example.final_project.tt_it4" />
+        <activity android:name="com.example.final_project.tt_it3" />
+        <activity android:name="com.example.final_project.tt_it2" />
+        <activity android:name="com.example.final_project.tt_it1" />
+        <activity android:name="com.example.final_project.download_ebook_au4" />
+        <activity android:name="com.example.final_project.download_ebook_au3" />
+        <activity android:name="com.example.final_project.download_ebook_au2" />
+        <activity android:name="com.example.final_project.download_ebook_au1" />
+        <activity android:name="com.example.final_project.download_qp_au4" />
+        <activity android:name="com.example.final_project.download_qp_au3" />
+        <activity android:name="com.example.final_project.download_qp_au2" />
+        <activity android:name="com.example.final_project.download_qp_au1" />
+        <activity android:name="com.example.final_project.ebook_au4" />
+        <activity android:name="com.example.final_project.ebook_au3" />
+        <activity android:name="com.example.final_project.ebook_au2" />
+        <activity android:name="com.example.final_project.ebook_au1" />
+        <activity android:name="com.example.final_project.qp_au4" />
+        <activity android:name="com.example.final_project.qp_au3" />
+        <activity android:name="com.example.final_project.qp_au2" />
+        <activity android:name="com.example.final_project.qp_au1" />
+        <activity android:name="com.example.final_project.syllabus_au4" />
+        <activity android:name="com.example.final_project.syllabus_au3" />
+        <activity android:name="com.example.final_project.syllabus_au2" />
+        <activity android:name="com.example.final_project.syllabus_au1" />
+        <activity android:name="com.example.final_project.tt_au4" />
+        <activity android:name="com.example.final_project.tt_au3" />
+        <activity android:name="com.example.final_project.tt_au2" />
+        <activity android:name="com.example.final_project.tt_au1" />
+        <activity android:name="com.example.final_project.download_qp_is4" />
+        <activity android:name="com.example.final_project.download_qp_is3" />
+        <activity android:name="com.example.final_project.download_qp_is2" />
+        <activity android:name="com.example.final_project.download_qp_is1" />
+        <activity android:name="com.example.final_project.download_ebook_is4" />
+        <activity android:name="com.example.final_project.download_ebook_is3" />
+        <activity android:name="com.example.final_project.download_ebook_is2" />
+        <activity android:name="com.example.final_project.download_ebook_is1" />
+        <activity android:name="com.example.final_project.ebook_is4" />
+        <activity android:name="com.example.final_project.ebook_is3" />
+        <activity android:name="com.example.final_project.ebook_is2" />
+        <activity android:name="com.example.final_project.ebook_is1" />
+        <activity android:name="com.example.final_project.qp_is4" />
+        <activity android:name="com.example.final_project.qp_is3" />
+        <activity android:name="com.example.final_project.qp_is2" />
+        <activity android:name="com.example.final_project.qp_is1" />
+        <activity android:name="com.example.final_project.syllabus_is4" />
+        <activity android:name="com.example.final_project.syllabus_is3" />
+        <activity android:name="com.example.final_project.syllabus_is2" />
+        <activity android:name="com.example.final_project.syllabus_is1" />
+        <activity android:name="com.example.final_project.tt_is4" />
+        <activity android:name="com.example.final_project.tt_is3" />
+        <activity android:name="com.example.final_project.tt_is2" />
+        <activity android:name="com.example.final_project.tt_is1" />
+        <activity android:name="com.example.final_project.download_ebook_me4" />
+        <activity android:name="com.example.final_project.download_ebook_me3" />
+        <activity android:name="com.example.final_project.download_ebook_me2" />
+        <activity android:name="com.example.final_project.download_ebook_me1" />
+        <activity android:name="com.example.final_project.download_qp_me4" />
+        <activity android:name="com.example.final_project.download_qp_me3" />
+        <activity android:name="com.example.final_project.download_qp_me2" />
+        <activity android:name="com.example.final_project.download_qp_me1" />
+        <activity android:name="com.example.final_project.ebook_me4" />
+        <activity android:name="com.example.final_project.ebook_me3" />
+        <activity android:name="com.example.final_project.ebook_me2" />
+        <activity android:name="com.example.final_project.ebook_me1" />
+        <activity android:name="com.example.final_project.qp_me4" />
+        <activity android:name="com.example.final_project.qp_me3" />
+        <activity android:name="com.example.final_project.qp_me2" />
+        <activity android:name="com.example.final_project.qp_me1" />
+        <activity android:name="com.example.final_project.syllabus_me4" />
+        <activity android:name="com.example.final_project.syllabus_me3" />
+        <activity android:name="com.example.final_project.syllabus_me2" />
+        <activity android:name="com.example.final_project.syllabus_me1" />
+        <activity android:name="com.example.final_project.tt_me4" />
+        <activity android:name="com.example.final_project.tt_me3" />
+        <activity android:name="com.example.final_project.tt_me2" />
+        <activity android:name="com.example.final_project.tt_me1" />
+        <activity android:name="com.example.final_project.download_ebook_cv4" />
+        <activity android:name="com.example.final_project.download_ebook_cv3" />
+        <activity android:name="com.example.final_project.download_ebook_cv2" />
+        <activity android:name="com.example.final_project.download_ebook_cv1" />
+        <activity android:name="com.example.final_project.ebook_cv4" />
+        <activity android:name="com.example.final_project.ebook_cv3" />
+        <activity android:name="com.example.final_project.ebook_cv2" />
+        <activity android:name="com.example.final_project.ebook_cv1" />
+        <activity android:name="com.example.final_project.download_qp_cv4" />
+        <activity android:name="com.example.final_project.download_qp_cv3" />
+        <activity android:name="com.example.final_project.download_qp_cv2" />
+        <activity android:name="com.example.final_project.download_qp_cv1" />
+        <activity android:name="com.example.final_project.qp_cv4" />
+        <activity android:name="com.example.final_project.qp_cv3" />
+        <activity android:name="com.example.final_project.qp_cv2" />
+        <activity android:name="com.example.final_project.qp_cv1" />
+        <activity android:name="com.example.final_project.syllabus_cv4" />
+        <activity android:name="com.example.final_project.syllabus_cv3" />
+        <activity android:name="com.example.final_project.syllabus_cv2" />
+        <activity android:name="com.example.final_project.syllabus_cv1" />
+        <activity android:name="com.example.final_project.tt_cv4" />
+        <activity android:name="com.example.final_project.tt_cv3" />
+        <activity android:name="com.example.final_project.tt_cv2" />
+        <activity android:name="com.example.final_project.tt_cv1" />
+        <activity android:name="com.example.final_project.cv_fourth_year" />
+        <activity android:name="com.example.final_project.cv_third_year" />
+        <activity android:name="com.example.final_project.cv_second_year" />
+        <activity android:name="com.example.final_project.cv_first_year" />
+        <activity android:name="com.example.final_project.download_qp_ec4" />
+        <activity android:name="com.example.final_project.download_ebook_ec4" />
+        <activity android:name="com.example.final_project.ebook_ec4" />
+        <activity android:name="com.example.final_project.syllabus_ec4" />
+        <activity android:name="com.example.final_project.qp_ec4" />
+        <activity android:name="com.example.final_project.tt_ec4" />
+        <activity android:name="com.example.final_project.qp_ec3" />
+        <activity android:name="com.example.final_project.download_qp_ec3" />
+        <activity android:name="com.example.final_project.download_ebook_ec3" />
+        <activity android:name="com.example.final_project.ebook_ec3" />
+        <activity android:name="com.example.final_project.syllabus_ec3" />
+        <activity android:name="com.example.final_project.tt_ec3" />
+        <activity android:name="com.example.final_project.download_qp_ec2" />
+        <activity android:name="com.example.final_project.qp_ec2" />
+        <activity android:name="com.example.final_project.download_ebook_ec2" />
+        <activity android:name="com.example.final_project.ebook_ec2" />
+        <activity android:name="com.example.final_project.syllabus_ec2" />
+        <activity android:name="com.example.final_project.tt_ec2" />
+        <activity android:name="com.example.final_project.download_qp_ec1" />
+        <activity android:name="com.example.final_project.download_ebook_ec1" />
+        <activity android:name="com.example.final_project.ebook_ec1" />
+        <activity android:name="com.example.final_project.qp_ec1" />
+        <activity android:name="com.example.final_project.syllabus_ec1" />
+        <activity android:name="com.example.final_project.tt_ec1" />
+        <activity android:name="com.example.final_project.ec_fourth_year" />
+        <activity android:name="com.example.final_project.ec_third_year" />
+        <activity android:name="com.example.final_project.ec_second_year" />
+        <activity android:name="com.example.final_project.ec_first_year" />
+        <activity android:name="com.example.final_project.download_qp_cs4" />
+        <activity android:name="com.example.final_project.qp_cs4" />
+        <activity android:name="com.example.final_project.download_ebook_cs4" />
+        <activity android:name="com.example.final_project.ebook_cs4" />
+        <activity android:name="com.example.final_project.syllabus_cs4" />
+        <activity android:name="com.example.final_project.tt_cs4" />
+        <activity android:name="com.example.final_project.download_ebook_cs3" />
+        <activity android:name="com.example.final_project.ebook_cs3" />
+        <activity android:name="com.example.final_project.download_qp_cs3" />
+        <activity android:name="com.example.final_project.qp_cs3" />
+        <activity android:name="com.example.final_project.syllabus_cs3" />
+        <activity android:name="com.example.final_project.tt_cs3" />
+        <activity android:name="com.example.final_project.download_ebook_cs2" />
+        <activity android:name="com.example.final_project.ebook_cs2" />
+        <activity android:name="com.example.final_project.download_qp_cs2" />
+        <activity android:name="com.example.final_project.qp_cs2" />
+        <activity android:name="com.example.final_project.syllabus_cs2" />
+        <activity android:name="com.example.final_project.tt_cs2" />
+        <activity android:name="com.example.final_project.About" />
+        <activity android:name="com.example.final_project.eduwize" />
+        <activity android:name="com.example.final_project.calender_of_events" />
+        <activity android:name="com.example.final_project.download_qp_cs1" />
+        <activity android:name="com.example.final_project.download_ebook_cs1" />
+        <activity android:name="com.example.final_project.cs_fourth_year" />
+        <activity android:name="com.example.final_project.cs_third_year" />
+        <activity android:name="com.example.final_project.cs_second_year" />
+        <activity android:name="com.example.final_project.ebook_cs1" />
+        <activity android:name="com.example.final_project.qp_cs1" />
+        <activity android:name="com.example.final_project.syllabus_cs1" />
+        <activity android:name="com.example.final_project.tt_cs1" />
+        <activity android:name="com.example.final_project.cs_first_year" />
+        <activity
+            android:name="com.example.final_project.cgpa_real"
+            android:label="@string/title_activity_cgpa_real"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.final_project.Automobile" />
+        <activity android:name="com.example.final_project.Instrumentation_and_technology" />
+        <activity android:name="com.example.final_project.Information_science" />
+        <activity android:name="com.example.final_project.Civil" />
+        <activity android:name="com.example.final_project.Mechanical" />
+        <activity android:name="com.example.final_project.Electronics_and_Communication" />
+        <activity android:name="com.example.final_project.Computer_Science" />
+        <activity android:name="com.example.final_project.cgpa_calculator" />
+        <activity
+            android:name="com.example.final_project.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.example.final_project.FiresbaseNotification"
+            android:enabled="false"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <!--
+             FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.final_project.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

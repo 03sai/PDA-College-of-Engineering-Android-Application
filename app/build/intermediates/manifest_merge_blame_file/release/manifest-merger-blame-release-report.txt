@@ -1,0 +1,833 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.final_project"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:247:5-67
+11-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:247:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:249:5-80
+12-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:249:22-77
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+13-->[com.google.firebase:firebase-database:16.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/7610431d7b3d90d2ebeb0810ccd9e6bc/firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+14    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+14-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+14-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:24:22-65
+15    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+15-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+15-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
+16
+17    <application
+17-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:5:5-246:19
+18        android:allowBackup="true"
+18-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+19-->[com.android.support:support-compat:28.0.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/e44aa6bb9afe9d62300de81ea471b8a5/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:7:9-43
+22        android:label="@string/app_name"
+22-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:8:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:9:9-54
+24        android:supportsRtl="true"
+24-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:10:9-35
+25        android:theme="@style/AppTheme" >
+25-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:11:9-40
+26        <activity android:name="com.example.final_project.Splash" >
+26-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:12:9-19:20
+26-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:12:19-41
+27            <intent-filter>
+27-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:14:13-18:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:15:17-69
+28-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:15:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:17:17-77
+30-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:17:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="com.example.final_project.au_fourth_year" />
+33-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:20:9-52
+33-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:20:19-49
+34        <activity android:name="com.example.final_project.au_third_year" />
+34-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:21:9-51
+34-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:21:19-48
+35        <activity android:name="com.example.final_project.au_second_year" />
+35-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:22:9-52
+35-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:22:19-49
+36        <activity android:name="com.example.final_project.au_first_year" />
+36-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:23:9-51
+36-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:23:19-48
+37        <activity android:name="com.example.final_project.it_fourth_year" />
+37-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:24:9-52
+37-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:24:19-49
+38        <activity android:name="com.example.final_project.it_third_year" />
+38-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:25:9-51
+38-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:25:19-48
+39        <activity android:name="com.example.final_project.it_second_year" />
+39-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:26:9-52
+39-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:26:19-49
+40        <activity android:name="com.example.final_project.it_first_year" />
+40-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:27:9-51
+40-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:27:19-48
+41        <activity android:name="com.example.final_project.is_fourth_year" />
+41-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:28:9-52
+41-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:28:19-49
+42        <activity android:name="com.example.final_project.is_third_year" />
+42-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:29:9-51
+42-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:29:19-48
+43        <activity android:name="com.example.final_project.is_second_year" />
+43-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:30:9-52
+43-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:30:19-49
+44        <activity android:name="com.example.final_project.is_first_year" />
+44-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:31:9-51
+44-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:31:19-48
+45        <activity android:name="com.example.final_project.me_fourth_year" />
+45-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:32:9-52
+45-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:32:19-49
+46        <activity android:name="com.example.final_project.me_third_year" />
+46-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:33:9-51
+46-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:33:19-48
+47        <activity android:name="com.example.final_project.me_second_year" />
+47-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:34:9-52
+47-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:34:19-49
+48        <activity android:name="com.example.final_project.me_first_year" />
+48-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:35:9-51
+48-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:35:19-48
+49        <activity android:name="com.example.final_project.download_qp_it4" />
+49-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:36:9-53
+49-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:36:19-50
+50        <activity android:name="com.example.final_project.download_qp_it3" />
+50-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:37:9-53
+50-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:37:19-50
+51        <activity android:name="com.example.final_project.download_qp_it2" />
+51-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:38:9-53
+51-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:38:19-50
+52        <activity android:name="com.example.final_project.download_qp_it1" />
+52-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:39:9-53
+52-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:39:19-50
+53        <activity android:name="com.example.final_project.download_ebook_it4" />
+53-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:40:9-56
+53-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:40:19-53
+54        <activity android:name="com.example.final_project.download_ebook_it3" />
+54-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:41:9-56
+54-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:41:19-53
+55        <activity android:name="com.example.final_project.download_ebook_it2" />
+55-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:42:9-56
+55-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:42:19-53
+56        <activity android:name="com.example.final_project.download_ebook_it1" />
+56-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:43:9-56
+56-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:43:19-53
+57        <activity android:name="com.example.final_project.ebook_it4" />
+57-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:44:9-47
+57-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:44:19-44
+58        <activity android:name="com.example.final_project.ebook_it3" />
+58-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:45:9-47
+58-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:45:19-44
+59        <activity android:name="com.example.final_project.ebook_it2" />
+59-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:46:9-47
+59-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:46:19-44
+60        <activity android:name="com.example.final_project.ebook_it1" />
+60-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:47:9-47
+60-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:47:19-44
+61        <activity android:name="com.example.final_project.qp_it4" />
+61-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:48:9-44
+61-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:48:19-41
+62        <activity android:name="com.example.final_project.qp_it3" />
+62-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:49:9-44
+62-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:49:19-41
+63        <activity android:name="com.example.final_project.qp_it2" />
+63-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:50:9-44
+63-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:50:19-41
+64        <activity android:name="com.example.final_project.qp_it1" />
+64-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:51:9-44
+64-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:51:19-41
+65        <activity android:name="com.example.final_project.syllabus_it4" />
+65-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:52:9-50
+65-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:52:19-47
+66        <activity android:name="com.example.final_project.syllabus_it3" />
+66-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:53:9-50
+66-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:53:19-47
+67        <activity android:name="com.example.final_project.syllabus_it2" />
+67-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:54:9-50
+67-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:54:19-47
+68        <activity android:name="com.example.final_project.syllabus_it1" />
+68-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:55:9-50
+68-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:55:19-47
+69        <activity android:name="com.example.final_project.tt_it4" />
+69-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:56:9-44
+69-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:56:19-41
+70        <activity android:name="com.example.final_project.tt_it3" />
+70-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:57:9-44
+70-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:57:19-41
+71        <activity android:name="com.example.final_project.tt_it2" />
+71-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:58:9-44
+71-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:58:19-41
+72        <activity android:name="com.example.final_project.tt_it1" />
+72-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:59:9-44
+72-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:59:19-41
+73        <activity android:name="com.example.final_project.download_ebook_au4" />
+73-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:60:9-56
+73-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:60:19-53
+74        <activity android:name="com.example.final_project.download_ebook_au3" />
+74-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:61:9-56
+74-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:61:19-53
+75        <activity android:name="com.example.final_project.download_ebook_au2" />
+75-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:62:9-56
+75-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:62:19-53
+76        <activity android:name="com.example.final_project.download_ebook_au1" />
+76-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:63:9-56
+76-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:63:19-53
+77        <activity android:name="com.example.final_project.download_qp_au4" />
+77-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:64:9-53
+77-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:64:19-50
+78        <activity android:name="com.example.final_project.download_qp_au3" />
+78-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:65:9-53
+78-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:65:19-50
+79        <activity android:name="com.example.final_project.download_qp_au2" />
+79-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:66:9-53
+79-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:66:19-50
+80        <activity android:name="com.example.final_project.download_qp_au1" />
+80-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:67:9-53
+80-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:67:19-50
+81        <activity android:name="com.example.final_project.ebook_au4" />
+81-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:68:9-47
+81-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:68:19-44
+82        <activity android:name="com.example.final_project.ebook_au3" />
+82-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:69:9-47
+82-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:69:19-44
+83        <activity android:name="com.example.final_project.ebook_au2" />
+83-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:70:9-47
+83-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:70:19-44
+84        <activity android:name="com.example.final_project.ebook_au1" />
+84-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:71:9-47
+84-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:71:19-44
+85        <activity android:name="com.example.final_project.qp_au4" />
+85-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:72:9-44
+85-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:72:19-41
+86        <activity android:name="com.example.final_project.qp_au3" />
+86-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:73:9-44
+86-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:73:19-41
+87        <activity android:name="com.example.final_project.qp_au2" />
+87-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:74:9-44
+87-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:74:19-41
+88        <activity android:name="com.example.final_project.qp_au1" />
+88-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:75:9-44
+88-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:75:19-41
+89        <activity android:name="com.example.final_project.syllabus_au4" />
+89-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:76:9-50
+89-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:76:19-47
+90        <activity android:name="com.example.final_project.syllabus_au3" />
+90-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:77:9-50
+90-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:77:19-47
+91        <activity android:name="com.example.final_project.syllabus_au2" />
+91-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:78:9-50
+91-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:78:19-47
+92        <activity android:name="com.example.final_project.syllabus_au1" />
+92-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:79:9-50
+92-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:79:19-47
+93        <activity android:name="com.example.final_project.tt_au4" />
+93-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:80:9-44
+93-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:80:19-41
+94        <activity android:name="com.example.final_project.tt_au3" />
+94-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:81:9-44
+94-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:81:19-41
+95        <activity android:name="com.example.final_project.tt_au2" />
+95-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:82:9-44
+95-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:82:19-41
+96        <activity android:name="com.example.final_project.tt_au1" />
+96-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:83:9-44
+96-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:83:19-41
+97        <activity android:name="com.example.final_project.download_qp_is4" />
+97-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:84:9-53
+97-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:84:19-50
+98        <activity android:name="com.example.final_project.download_qp_is3" />
+98-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:85:9-53
+98-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:85:19-50
+99        <activity android:name="com.example.final_project.download_qp_is2" />
+99-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:86:9-53
+99-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:86:19-50
+100        <activity android:name="com.example.final_project.download_qp_is1" />
+100-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:87:9-53
+100-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:87:19-50
+101        <activity android:name="com.example.final_project.download_ebook_is4" />
+101-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:88:9-56
+101-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:88:19-53
+102        <activity android:name="com.example.final_project.download_ebook_is3" />
+102-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:89:9-56
+102-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:89:19-53
+103        <activity android:name="com.example.final_project.download_ebook_is2" />
+103-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:90:9-56
+103-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:90:19-53
+104        <activity android:name="com.example.final_project.download_ebook_is1" />
+104-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:91:9-56
+104-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:91:19-53
+105        <activity android:name="com.example.final_project.ebook_is4" />
+105-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:92:9-47
+105-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:92:19-44
+106        <activity android:name="com.example.final_project.ebook_is3" />
+106-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:93:9-47
+106-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:93:19-44
+107        <activity android:name="com.example.final_project.ebook_is2" />
+107-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:94:9-47
+107-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:94:19-44
+108        <activity android:name="com.example.final_project.ebook_is1" />
+108-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:95:9-47
+108-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:95:19-44
+109        <activity android:name="com.example.final_project.qp_is4" />
+109-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:96:9-44
+109-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:96:19-41
+110        <activity android:name="com.example.final_project.qp_is3" />
+110-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:97:9-44
+110-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:97:19-41
+111        <activity android:name="com.example.final_project.qp_is2" />
+111-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:98:9-44
+111-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:98:19-41
+112        <activity android:name="com.example.final_project.qp_is1" />
+112-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:99:9-44
+112-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:99:19-41
+113        <activity android:name="com.example.final_project.syllabus_is4" />
+113-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:100:9-50
+113-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:100:19-47
+114        <activity android:name="com.example.final_project.syllabus_is3" />
+114-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:101:9-50
+114-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:101:19-47
+115        <activity android:name="com.example.final_project.syllabus_is2" />
+115-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:102:9-50
+115-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:102:19-47
+116        <activity android:name="com.example.final_project.syllabus_is1" />
+116-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:103:9-50
+116-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:103:19-47
+117        <activity android:name="com.example.final_project.tt_is4" />
+117-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:104:9-44
+117-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:104:19-41
+118        <activity android:name="com.example.final_project.tt_is3" />
+118-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:105:9-44
+118-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:105:19-41
+119        <activity android:name="com.example.final_project.tt_is2" />
+119-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:106:9-44
+119-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:106:19-41
+120        <activity android:name="com.example.final_project.tt_is1" />
+120-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:107:9-44
+120-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:107:19-41
+121        <activity android:name="com.example.final_project.download_ebook_me4" />
+121-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:108:9-56
+121-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:108:19-53
+122        <activity android:name="com.example.final_project.download_ebook_me3" />
+122-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:109:9-56
+122-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:109:19-53
+123        <activity android:name="com.example.final_project.download_ebook_me2" />
+123-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:110:9-56
+123-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:110:19-53
+124        <activity android:name="com.example.final_project.download_ebook_me1" />
+124-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:111:9-56
+124-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:111:19-53
+125        <activity android:name="com.example.final_project.download_qp_me4" />
+125-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:112:9-53
+125-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:112:19-50
+126        <activity android:name="com.example.final_project.download_qp_me3" />
+126-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:113:9-53
+126-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:113:19-50
+127        <activity android:name="com.example.final_project.download_qp_me2" />
+127-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:114:9-53
+127-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:114:19-50
+128        <activity android:name="com.example.final_project.download_qp_me1" />
+128-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:115:9-53
+128-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:115:19-50
+129        <activity android:name="com.example.final_project.ebook_me4" />
+129-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:116:9-47
+129-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:116:19-44
+130        <activity android:name="com.example.final_project.ebook_me3" />
+130-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:117:9-47
+130-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:117:19-44
+131        <activity android:name="com.example.final_project.ebook_me2" />
+131-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:118:9-47
+131-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:118:19-44
+132        <activity android:name="com.example.final_project.ebook_me1" />
+132-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:119:9-47
+132-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:119:19-44
+133        <activity android:name="com.example.final_project.qp_me4" />
+133-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:120:9-44
+133-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:120:19-41
+134        <activity android:name="com.example.final_project.qp_me3" />
+134-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:121:9-44
+134-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:121:19-41
+135        <activity android:name="com.example.final_project.qp_me2" />
+135-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:122:9-44
+135-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:122:19-41
+136        <activity android:name="com.example.final_project.qp_me1" />
+136-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:123:9-44
+136-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:123:19-41
+137        <activity android:name="com.example.final_project.syllabus_me4" />
+137-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:124:9-50
+137-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:124:19-47
+138        <activity android:name="com.example.final_project.syllabus_me3" />
+138-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:125:9-50
+138-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:125:19-47
+139        <activity android:name="com.example.final_project.syllabus_me2" />
+139-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:126:9-50
+139-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:126:19-47
+140        <activity android:name="com.example.final_project.syllabus_me1" />
+140-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:127:9-50
+140-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:127:19-47
+141        <activity android:name="com.example.final_project.tt_me4" />
+141-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:128:9-44
+141-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:128:19-41
+142        <activity android:name="com.example.final_project.tt_me3" />
+142-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:129:9-44
+142-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:129:19-41
+143        <activity android:name="com.example.final_project.tt_me2" />
+143-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:130:9-44
+143-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:130:19-41
+144        <activity android:name="com.example.final_project.tt_me1" />
+144-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:131:9-44
+144-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:131:19-41
+145        <activity android:name="com.example.final_project.download_ebook_cv4" />
+145-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:132:9-56
+145-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:132:19-53
+146        <activity android:name="com.example.final_project.download_ebook_cv3" />
+146-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:133:9-56
+146-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:133:19-53
+147        <activity android:name="com.example.final_project.download_ebook_cv2" />
+147-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:134:9-56
+147-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:134:19-53
+148        <activity android:name="com.example.final_project.download_ebook_cv1" />
+148-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:135:9-56
+148-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:135:19-53
+149        <activity android:name="com.example.final_project.ebook_cv4" />
+149-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:136:9-47
+149-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:136:19-44
+150        <activity android:name="com.example.final_project.ebook_cv3" />
+150-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:137:9-47
+150-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:137:19-44
+151        <activity android:name="com.example.final_project.ebook_cv2" />
+151-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:138:9-47
+151-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:138:19-44
+152        <activity android:name="com.example.final_project.ebook_cv1" />
+152-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:139:9-47
+152-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:139:19-44
+153        <activity android:name="com.example.final_project.download_qp_cv4" />
+153-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:140:9-53
+153-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:140:19-50
+154        <activity android:name="com.example.final_project.download_qp_cv3" />
+154-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:141:9-53
+154-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:141:19-50
+155        <activity android:name="com.example.final_project.download_qp_cv2" />
+155-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:142:9-53
+155-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:142:19-50
+156        <activity android:name="com.example.final_project.download_qp_cv1" />
+156-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:143:9-53
+156-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:143:19-50
+157        <activity android:name="com.example.final_project.qp_cv4" />
+157-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:144:9-44
+157-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:144:19-41
+158        <activity android:name="com.example.final_project.qp_cv3" />
+158-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:145:9-44
+158-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:145:19-41
+159        <activity android:name="com.example.final_project.qp_cv2" />
+159-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:146:9-44
+159-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:146:19-41
+160        <activity android:name="com.example.final_project.qp_cv1" />
+160-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:147:9-44
+160-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:147:19-41
+161        <activity android:name="com.example.final_project.syllabus_cv4" />
+161-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:148:9-50
+161-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:148:19-47
+162        <activity android:name="com.example.final_project.syllabus_cv3" />
+162-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:149:9-50
+162-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:149:19-47
+163        <activity android:name="com.example.final_project.syllabus_cv2" />
+163-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:150:9-50
+163-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:150:19-47
+164        <activity android:name="com.example.final_project.syllabus_cv1" />
+164-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:151:9-50
+164-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:151:19-47
+165        <activity android:name="com.example.final_project.tt_cv4" />
+165-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:152:9-44
+165-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:152:19-41
+166        <activity android:name="com.example.final_project.tt_cv3" />
+166-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:153:9-44
+166-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:153:19-41
+167        <activity android:name="com.example.final_project.tt_cv2" />
+167-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:154:9-44
+167-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:154:19-41
+168        <activity android:name="com.example.final_project.tt_cv1" />
+168-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:155:9-44
+168-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:155:19-41
+169        <activity android:name="com.example.final_project.cv_fourth_year" />
+169-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:156:9-52
+169-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:156:19-49
+170        <activity android:name="com.example.final_project.cv_third_year" />
+170-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:157:9-51
+170-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:157:19-48
+171        <activity android:name="com.example.final_project.cv_second_year" />
+171-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:158:9-52
+171-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:158:19-49
+172        <activity android:name="com.example.final_project.cv_first_year" />
+172-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:159:9-51
+172-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:159:19-48
+173        <activity android:name="com.example.final_project.download_qp_ec4" />
+173-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:160:9-53
+173-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:160:19-50
+174        <activity android:name="com.example.final_project.download_ebook_ec4" />
+174-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:161:9-56
+174-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:161:19-53
+175        <activity android:name="com.example.final_project.ebook_ec4" />
+175-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:162:9-47
+175-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:162:19-44
+176        <activity android:name="com.example.final_project.syllabus_ec4" />
+176-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:163:9-50
+176-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:163:19-47
+177        <activity android:name="com.example.final_project.qp_ec4" />
+177-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:164:9-44
+177-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:164:19-41
+178        <activity android:name="com.example.final_project.tt_ec4" />
+178-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:165:9-44
+178-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:165:19-41
+179        <activity android:name="com.example.final_project.qp_ec3" />
+179-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:166:9-44
+179-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:166:19-41
+180        <activity android:name="com.example.final_project.download_qp_ec3" />
+180-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:167:9-53
+180-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:167:19-50
+181        <activity android:name="com.example.final_project.download_ebook_ec3" />
+181-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:168:9-56
+181-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:168:19-53
+182        <activity android:name="com.example.final_project.ebook_ec3" />
+182-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:169:9-47
+182-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:169:19-44
+183        <activity android:name="com.example.final_project.syllabus_ec3" />
+183-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:170:9-50
+183-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:170:19-47
+184        <activity android:name="com.example.final_project.tt_ec3" />
+184-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:171:9-44
+184-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:171:19-41
+185        <activity android:name="com.example.final_project.download_qp_ec2" />
+185-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:172:9-53
+185-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:172:19-50
+186        <activity android:name="com.example.final_project.qp_ec2" />
+186-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:173:9-44
+186-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:173:19-41
+187        <activity android:name="com.example.final_project.download_ebook_ec2" />
+187-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:174:9-56
+187-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:174:19-53
+188        <activity android:name="com.example.final_project.ebook_ec2" />
+188-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:175:9-47
+188-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:175:19-44
+189        <activity android:name="com.example.final_project.syllabus_ec2" />
+189-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:176:9-50
+189-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:176:19-47
+190        <activity android:name="com.example.final_project.tt_ec2" />
+190-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:177:9-44
+190-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:177:19-41
+191        <activity android:name="com.example.final_project.download_qp_ec1" />
+191-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:178:9-53
+191-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:178:19-50
+192        <activity android:name="com.example.final_project.download_ebook_ec1" />
+192-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:179:9-56
+192-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:179:19-53
+193        <activity android:name="com.example.final_project.ebook_ec1" />
+193-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:180:9-47
+193-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:180:19-44
+194        <activity android:name="com.example.final_project.qp_ec1" />
+194-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:181:9-44
+194-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:181:19-41
+195        <activity android:name="com.example.final_project.syllabus_ec1" />
+195-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:182:9-50
+195-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:182:19-47
+196        <activity android:name="com.example.final_project.tt_ec1" />
+196-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:183:9-44
+196-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:183:19-41
+197        <activity android:name="com.example.final_project.ec_fourth_year" />
+197-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:184:9-52
+197-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:184:19-49
+198        <activity android:name="com.example.final_project.ec_third_year" />
+198-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:185:9-51
+198-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:185:19-48
+199        <activity android:name="com.example.final_project.ec_second_year" />
+199-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:186:9-52
+199-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:186:19-49
+200        <activity android:name="com.example.final_project.ec_first_year" />
+200-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:187:9-51
+200-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:187:19-48
+201        <activity android:name="com.example.final_project.download_qp_cs4" />
+201-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:188:9-53
+201-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:188:19-50
+202        <activity android:name="com.example.final_project.qp_cs4" />
+202-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:189:9-44
+202-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:189:19-41
+203        <activity android:name="com.example.final_project.download_ebook_cs4" />
+203-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:190:9-56
+203-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:190:19-53
+204        <activity android:name="com.example.final_project.ebook_cs4" />
+204-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:191:9-47
+204-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:191:19-44
+205        <activity android:name="com.example.final_project.syllabus_cs4" />
+205-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:192:9-50
+205-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:192:19-47
+206        <activity android:name="com.example.final_project.tt_cs4" />
+206-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:193:9-44
+206-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:193:19-41
+207        <activity android:name="com.example.final_project.download_ebook_cs3" />
+207-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:194:9-56
+207-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:194:19-53
+208        <activity android:name="com.example.final_project.ebook_cs3" />
+208-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:195:9-47
+208-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:195:19-44
+209        <activity android:name="com.example.final_project.download_qp_cs3" />
+209-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:196:9-53
+209-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:196:19-50
+210        <activity android:name="com.example.final_project.qp_cs3" />
+210-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:197:9-44
+210-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:197:19-41
+211        <activity android:name="com.example.final_project.syllabus_cs3" />
+211-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:198:9-50
+211-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:198:19-47
+212        <activity android:name="com.example.final_project.tt_cs3" />
+212-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:199:9-44
+212-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:199:19-41
+213        <activity android:name="com.example.final_project.download_ebook_cs2" />
+213-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:200:9-56
+213-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:200:19-53
+214        <activity android:name="com.example.final_project.ebook_cs2" />
+214-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:201:9-47
+214-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:201:19-44
+215        <activity android:name="com.example.final_project.download_qp_cs2" />
+215-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:202:9-53
+215-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:202:19-50
+216        <activity android:name="com.example.final_project.qp_cs2" />
+216-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:203:9-44
+216-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:203:19-41
+217        <activity android:name="com.example.final_project.syllabus_cs2" />
+217-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:204:9-50
+217-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:204:19-47
+218        <activity android:name="com.example.final_project.tt_cs2" />
+218-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:205:9-44
+218-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:205:19-41
+219        <activity android:name="com.example.final_project.About" />
+219-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:206:9-43
+219-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:206:19-40
+220        <activity android:name="com.example.final_project.eduwize" />
+220-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:207:9-45
+220-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:207:19-42
+221        <activity android:name="com.example.final_project.calender_of_events" />
+221-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:208:9-56
+221-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:208:19-53
+222        <activity android:name="com.example.final_project.download_qp_cs1" />
+222-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:209:9-53
+222-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:209:19-50
+223        <activity android:name="com.example.final_project.download_ebook_cs1" />
+223-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:210:9-56
+223-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:210:19-53
+224        <activity android:name="com.example.final_project.cs_fourth_year" />
+224-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:211:9-52
+224-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:211:19-49
+225        <activity android:name="com.example.final_project.cs_third_year" />
+225-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:212:9-51
+225-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:212:19-48
+226        <activity android:name="com.example.final_project.cs_second_year" />
+226-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:213:9-52
+226-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:213:19-49
+227        <activity android:name="com.example.final_project.ebook_cs1" />
+227-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:214:9-47
+227-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:214:19-44
+228        <activity android:name="com.example.final_project.qp_cs1" />
+228-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:215:9-44
+228-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:215:19-41
+229        <activity android:name="com.example.final_project.syllabus_cs1" />
+229-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:216:9-50
+229-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:216:19-47
+230        <activity android:name="com.example.final_project.tt_cs1" />
+230-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:217:9-44
+230-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:217:19-41
+231        <activity android:name="com.example.final_project.cs_first_year" />
+231-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:218:9-51
+231-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:218:19-48
+232        <activity
+232-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:219:9-222:59
+233            android:name="com.example.final_project.cgpa_real"
+233-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:220:13-38
+234            android:label="@string/title_activity_cgpa_real"
+234-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:221:13-61
+235            android:theme="@style/AppTheme.NoActionBar" />
+235-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:222:13-56
+236        <activity android:name="com.example.final_project.Automobile" />
+236-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:223:9-48
+236-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:223:19-45
+237        <activity android:name="com.example.final_project.Instrumentation_and_technology" />
+237-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:224:9-68
+237-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:224:19-65
+238        <activity android:name="com.example.final_project.Information_science" />
+238-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:225:9-57
+238-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:225:19-54
+239        <activity android:name="com.example.final_project.Civil" />
+239-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:226:9-43
+239-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:226:19-40
+240        <activity android:name="com.example.final_project.Mechanical" />
+240-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:227:9-48
+240-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:227:19-45
+241        <activity android:name="com.example.final_project.Electronics_and_Communication" />
+241-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:228:9-67
+241-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:228:19-64
+242        <activity android:name="com.example.final_project.Computer_Science" />
+242-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:229:9-54
+242-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:229:19-51
+243        <activity android:name="com.example.final_project.cgpa_calculator" />
+243-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:230:9-53
+243-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:230:19-50
+244        <activity
+244-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:231:9-240:20
+245            android:name="com.example.final_project.MainActivity"
+245-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:232:13-41
+246            android:label="@string/app_name"
+246-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:233:13-45
+247            android:theme="@style/AppTheme.NoActionBar" >
+247-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:234:13-56
+248            <intent-filter>
+248-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:235:13-239:29
+249                <action android:name="android.intent.action.MAIN" />
+249-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:15:17-69
+249-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:15:25-66
+250
+251                <category android:name="android.intent.category.DEFAULT" />
+251-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:238:17-76
+251-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:238:27-73
+252            </intent-filter>
+253        </activity>
+254
+255        <service
+255-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:242:9-245:40
+256            android:name="com.example.final_project.FiresbaseNotification"
+256-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:243:13-50
+257            android:enabled="false"
+257-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:244:13-36
+258            android:exported="false" />
+258-->/Users/rahulsidhapurker/Desktop/Final_project/app/src/main/AndroidManifest.xml:245:13-37
+259
+260        <activity
+260-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+261            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+261-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+262            android:excludeFromRecents="true"
+262-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+263            android:exported="true"
+263-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+264            android:launchMode="singleTask"
+264-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+265            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+265-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+266            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+266-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+267
+268        <service
+268-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+269            android:name="com.google.firebase.components.ComponentDiscoveryService"
+269-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+270            android:exported="false" >
+270-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+271            <meta-data
+271-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+272                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+272-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+273                android:value="com.google.firebase.components.ComponentRegistrar" />
+273-->[com.google.firebase:firebase-auth:16.0.5] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/884f826e67d1012dbb69ea3d91ed0934/firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+274            <meta-data
+274-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+275                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+275-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+276                android:value="com.google.firebase.components.ComponentRegistrar" />
+276-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+277        </service>
+278        <!--
+279             FirebaseMessagingService performs security checks at runtime,
+280             no need for explicit permissions despite exported="true"
+281        -->
+282        <service
+282-->[com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+283            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+283-->[com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+284            android:exported="true" >
+284-->[com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+285            <intent-filter android:priority="-500" >
+285-->[com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:31:13-33:29
+285-->[com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:31:28-51
+286                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+286-->[com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:32:17-78
+286-->[com.google.firebase:firebase-messaging:17.3.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/f3a8b713aebc869ea66cea49b394475f/firebase-messaging-17.3.4/AndroidManifest.xml:32:25-75
+287            </intent-filter>
+288        </service>
+289
+290        <receiver
+290-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+291            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+291-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+292            android:exported="true"
+292-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+293            android:permission="com.google.android.c2dm.permission.SEND" >
+293-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+294            <intent-filter>
+294-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+295                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+295-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+295-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+296            </intent-filter>
+297        </receiver>
+298        <!--
+299             FirebaseInstanceIdService performs security checks at runtime,
+300             no need for explicit permissions despite exported="true"
+301        -->
+302        <service
+302-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+303            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+303-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+304            android:exported="true" >
+304-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+305            <intent-filter android:priority="-500" >
+305-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:53:13-55:29
+305-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:53:28-51
+306                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+306-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:54:17-80
+306-->[com.google.firebase:firebase-iid:17.0.4] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/41e586b7e5cea7b6c3569c5bcadade30/firebase-iid-17.0.4/AndroidManifest.xml:54:25-77
+307            </intent-filter>
+308        </service>
+309
+310        <activity
+310-->[com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+311            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+311-->[com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+312            android:exported="false"
+312-->[com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+313            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+313-->[com.google.android.gms:play-services-base:16.0.1] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/78fa171c6aeec531ec684954f89fad0e/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+314
+315        <provider
+315-->[com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+316            android:name="com.google.firebase.provider.FirebaseInitProvider"
+316-->[com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+317            android:authorities="com.example.final_project.firebaseinitprovider"
+317-->[com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+318            android:exported="false"
+318-->[com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+319            android:initOrder="100" />
+319-->[com.google.firebase:firebase-common:16.0.3] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/b77be4922400047b453785fb215c0d1e/firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+320
+321        <meta-data
+321-->[com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+322            android:name="com.google.android.gms.version"
+322-->[com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+323            android:value="@integer/google_play_services_version" />
+323-->[com.google.android.gms:play-services-basement:16.1.0] /Users/rahulsidhapurker/.gradle/caches/transforms-2/files-2.1/c6e8f821f4684e3d7d0b2a5fd3658304/play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+324    </application>
+325
+326</manifest>

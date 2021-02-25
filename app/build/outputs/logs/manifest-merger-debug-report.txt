@@ -1,0 +1,1245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0bbc2c2dcf739c0af36aaa69df34a62e\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\90045b44dab740be792617fd581a55a3\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\27dfaf47e13f58bfb1f973fbc04e0b0f\firebase-storage-16.0.4\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1220e3d5b680bc093d2f245c2fa6f125\play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c4f9f537a1040f2120aa7e069daf15d6\firebase-auth-interop-16.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e0305dec9354d223710326581bbedaee\firebase-iid-interop-16.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7e33c9a8294262ba8309e3d29e9210d0\play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1ca59fa7e8d393e1a350d26e10f43ce4\firebase-database-collection-16.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b9eb1f0c88887c7ee015e73898cfb85\firebase-measurement-connector-17.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d5a576d25052a6c35b5bcb00f4cdeaf1\play-services-stats-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bfc07c1a10fa1388e284f392b53f0360\android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\995ec56e031153387aec16a3d5f1a33b\pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b13750c8447f64d6cb582d08f648487a\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d82848c78de2e754a20a693011b9e4e4\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\48dec8bd5918d71d19e0f81798346943\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\92a3bcb37cb19a5f5119acc11743e288\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c3924c7e11060e6239bc3857198d5c6c\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\f761b0c37c44ad72db8cd018829aeaf1\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\353e4d1151611c4375c4fb7c62b0a7da\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\2f080cffecd8248105b2a27918113876\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c3606602e7ac73e1b75b34002df6e7de\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\855209534f79115f1eae45e65a8594c8\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e6e1db0985f287535886dd441f25e667\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0fde1d8e3b58e154c90d6ea9dfd3cfcc\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\6f8378c8610287ed61666aa434714007\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\4805343d14c2772f03f9684bae208aa1\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\2186becfaafac4437169c89f0ce4427c\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b89c0cef71e106558a4d5fcd9cb61f29\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\62d66ff86b85475525ca4a0e09447f51\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7322dc9efd3f2ae7a7a63710507ca476\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\57ec45c9b5e0c1f6a21eac064e202ea3\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d85c2783697a1d765210ec9008c21055\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\a350ec10872c09f4ae4ecf2babb7a009\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\25656cc6767c31b4477df33737473366\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c65777b32963f90ed4a1d9bb089a240c\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\58fe87430ce7e3ab95a6e1c1236cd8f8\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8123faa3671cbcf9834b1c3347aaf676\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\3645b430f76484b5d37764a58143919b\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8996e568157f922fd297fc5bd2fadd9e\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\9564a0099967297e5657ac5846b4f5b9\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c783eb848cc102bfc6438aa79755cad7\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1c96fa44bac0cc7343c73a5ba851d83d\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\cbd120afe52d5f07ec5a502179d5b765\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+	package
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:1-256:12
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:5:5-248:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0bbc2c2dcf739c0af36aaa69df34a62e\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0bbc2c2dcf739c0af36aaa69df34a62e\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c4f9f537a1040f2120aa7e069daf15d6\firebase-auth-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c4f9f537a1040f2120aa7e069daf15d6\firebase-auth-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e0305dec9354d223710326581bbedaee\firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e0305dec9354d223710326581bbedaee\firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7e33c9a8294262ba8309e3d29e9210d0\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7e33c9a8294262ba8309e3d29e9210d0\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b9eb1f0c88887c7ee015e73898cfb85\firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b9eb1f0c88887c7ee015e73898cfb85\firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d5a576d25052a6c35b5bcb00f4cdeaf1\play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d5a576d25052a6c35b5bcb00f4cdeaf1\play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d82848c78de2e754a20a693011b9e4e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d82848c78de2e754a20a693011b9e4e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\57ec45c9b5e0c1f6a21eac064e202ea3\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\57ec45c9b5e0c1f6a21eac064e202ea3\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d85c2783697a1d765210ec9008c21055\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d85c2783697a1d765210ec9008c21055\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\57ec45c9b5e0c1f6a21eac064e202ea3\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:11:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:12:9-44
+activity#com.example.final_project.Splash
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:14:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.final_project.au_fourth_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:22:19-49
+activity#com.example.final_project.au_third_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.example.final_project.au_second_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:24:19-49
+activity#com.example.final_project.au_first_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.example.final_project.it_fourth_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.final_project.it_third_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.example.final_project.it_second_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.example.final_project.it_first_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:29:19-48
+activity#com.example.final_project.is_fourth_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:30:19-49
+activity#com.example.final_project.is_third_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:31:19-48
+activity#com.example.final_project.is_second_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:32:19-49
+activity#com.example.final_project.is_first_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:33:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:33:19-48
+activity#com.example.final_project.me_fourth_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:34:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:34:19-49
+activity#com.example.final_project.me_third_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:35:19-48
+activity#com.example.final_project.me_second_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:36:19-49
+activity#com.example.final_project.me_first_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:37:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:37:19-48
+activity#com.example.final_project.download_qp_it4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:38:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:38:19-50
+activity#com.example.final_project.download_qp_it3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:39:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:39:19-50
+activity#com.example.final_project.download_qp_it2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:40:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:40:19-50
+activity#com.example.final_project.download_qp_it1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:41:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:41:19-50
+activity#com.example.final_project.download_ebook_it4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:42:19-53
+activity#com.example.final_project.download_ebook_it3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:43:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:43:19-53
+activity#com.example.final_project.download_ebook_it2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:44:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:44:19-53
+activity#com.example.final_project.download_ebook_it1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:45:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:45:19-53
+activity#com.example.final_project.ebook_it4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:46:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:46:19-44
+activity#com.example.final_project.ebook_it3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:47:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:47:19-44
+activity#com.example.final_project.ebook_it2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:48:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:48:19-44
+activity#com.example.final_project.ebook_it1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:49:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:49:19-44
+activity#com.example.final_project.qp_it4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:50:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:50:19-41
+activity#com.example.final_project.qp_it3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:51:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:51:19-41
+activity#com.example.final_project.qp_it2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:52:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:52:19-41
+activity#com.example.final_project.qp_it1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:53:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:53:19-41
+activity#com.example.final_project.syllabus_it4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:54:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:54:19-47
+activity#com.example.final_project.syllabus_it3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:55:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:55:19-47
+activity#com.example.final_project.syllabus_it2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:56:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:56:19-47
+activity#com.example.final_project.syllabus_it1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:57:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:57:19-47
+activity#com.example.final_project.tt_it4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:58:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:58:19-41
+activity#com.example.final_project.tt_it3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:59:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:59:19-41
+activity#com.example.final_project.tt_it2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:60:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:60:19-41
+activity#com.example.final_project.tt_it1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:61:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:61:19-41
+activity#com.example.final_project.download_ebook_au4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:62:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:62:19-53
+activity#com.example.final_project.download_ebook_au3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:63:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:63:19-53
+activity#com.example.final_project.download_ebook_au2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:64:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:64:19-53
+activity#com.example.final_project.download_ebook_au1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:65:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:65:19-53
+activity#com.example.final_project.download_qp_au4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:66:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:66:19-50
+activity#com.example.final_project.download_qp_au3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:67:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:67:19-50
+activity#com.example.final_project.download_qp_au2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:68:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:68:19-50
+activity#com.example.final_project.download_qp_au1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:69:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:69:19-50
+activity#com.example.final_project.ebook_au4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:70:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:70:19-44
+activity#com.example.final_project.ebook_au3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:71:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:71:19-44
+activity#com.example.final_project.ebook_au2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:72:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:72:19-44
+activity#com.example.final_project.ebook_au1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:73:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:73:19-44
+activity#com.example.final_project.qp_au4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:74:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:74:19-41
+activity#com.example.final_project.qp_au3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:75:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:75:19-41
+activity#com.example.final_project.qp_au2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:76:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:76:19-41
+activity#com.example.final_project.qp_au1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:77:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:77:19-41
+activity#com.example.final_project.syllabus_au4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:78:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:78:19-47
+activity#com.example.final_project.syllabus_au3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:79:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:79:19-47
+activity#com.example.final_project.syllabus_au2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:80:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:80:19-47
+activity#com.example.final_project.syllabus_au1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:81:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:81:19-47
+activity#com.example.final_project.tt_au4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:82:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:82:19-41
+activity#com.example.final_project.tt_au3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:83:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:83:19-41
+activity#com.example.final_project.tt_au2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:84:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:84:19-41
+activity#com.example.final_project.tt_au1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:85:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:85:19-41
+activity#com.example.final_project.download_qp_is4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:86:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:86:19-50
+activity#com.example.final_project.download_qp_is3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:87:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:87:19-50
+activity#com.example.final_project.download_qp_is2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:88:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:88:19-50
+activity#com.example.final_project.download_qp_is1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:89:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:89:19-50
+activity#com.example.final_project.download_ebook_is4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:90:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:90:19-53
+activity#com.example.final_project.download_ebook_is3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:91:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:91:19-53
+activity#com.example.final_project.download_ebook_is2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:92:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:92:19-53
+activity#com.example.final_project.download_ebook_is1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:93:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:93:19-53
+activity#com.example.final_project.ebook_is4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:94:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:94:19-44
+activity#com.example.final_project.ebook_is3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:95:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:95:19-44
+activity#com.example.final_project.ebook_is2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:96:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:96:19-44
+activity#com.example.final_project.ebook_is1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:97:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:97:19-44
+activity#com.example.final_project.qp_is4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:98:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:98:19-41
+activity#com.example.final_project.qp_is3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:99:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:99:19-41
+activity#com.example.final_project.qp_is2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:100:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:100:19-41
+activity#com.example.final_project.qp_is1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:101:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:101:19-41
+activity#com.example.final_project.syllabus_is4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:102:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:102:19-47
+activity#com.example.final_project.syllabus_is3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:103:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:103:19-47
+activity#com.example.final_project.syllabus_is2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:104:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:104:19-47
+activity#com.example.final_project.syllabus_is1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:105:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:105:19-47
+activity#com.example.final_project.tt_is4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:106:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:106:19-41
+activity#com.example.final_project.tt_is3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:107:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:107:19-41
+activity#com.example.final_project.tt_is2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:108:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:108:19-41
+activity#com.example.final_project.tt_is1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:109:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:109:19-41
+activity#com.example.final_project.download_ebook_me4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:110:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:110:19-53
+activity#com.example.final_project.download_ebook_me3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:111:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:111:19-53
+activity#com.example.final_project.download_ebook_me2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:112:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:112:19-53
+activity#com.example.final_project.download_ebook_me1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:113:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:113:19-53
+activity#com.example.final_project.download_qp_me4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:114:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:114:19-50
+activity#com.example.final_project.download_qp_me3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:115:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:115:19-50
+activity#com.example.final_project.download_qp_me2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:116:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:116:19-50
+activity#com.example.final_project.download_qp_me1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:117:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:117:19-50
+activity#com.example.final_project.ebook_me4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:118:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:118:19-44
+activity#com.example.final_project.ebook_me3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:119:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:119:19-44
+activity#com.example.final_project.ebook_me2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:120:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:120:19-44
+activity#com.example.final_project.ebook_me1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:121:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:121:19-44
+activity#com.example.final_project.qp_me4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:122:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:122:19-41
+activity#com.example.final_project.qp_me3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:123:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:123:19-41
+activity#com.example.final_project.qp_me2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:124:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:124:19-41
+activity#com.example.final_project.qp_me1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:125:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:125:19-41
+activity#com.example.final_project.syllabus_me4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:126:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:126:19-47
+activity#com.example.final_project.syllabus_me3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:127:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:127:19-47
+activity#com.example.final_project.syllabus_me2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:128:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:128:19-47
+activity#com.example.final_project.syllabus_me1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:129:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:129:19-47
+activity#com.example.final_project.tt_me4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:130:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:130:19-41
+activity#com.example.final_project.tt_me3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:131:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:131:19-41
+activity#com.example.final_project.tt_me2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:132:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:132:19-41
+activity#com.example.final_project.tt_me1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:133:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:133:19-41
+activity#com.example.final_project.download_ebook_cv4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:134:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:134:19-53
+activity#com.example.final_project.download_ebook_cv3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:135:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:135:19-53
+activity#com.example.final_project.download_ebook_cv2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:136:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:136:19-53
+activity#com.example.final_project.download_ebook_cv1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:137:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:137:19-53
+activity#com.example.final_project.ebook_cv4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:138:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:138:19-44
+activity#com.example.final_project.ebook_cv3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:139:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:139:19-44
+activity#com.example.final_project.ebook_cv2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:140:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:140:19-44
+activity#com.example.final_project.ebook_cv1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:141:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:141:19-44
+activity#com.example.final_project.download_qp_cv4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:142:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:142:19-50
+activity#com.example.final_project.download_qp_cv3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:143:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:143:19-50
+activity#com.example.final_project.download_qp_cv2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:144:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:144:19-50
+activity#com.example.final_project.download_qp_cv1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:145:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:145:19-50
+activity#com.example.final_project.qp_cv4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:146:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:146:19-41
+activity#com.example.final_project.qp_cv3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:147:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:147:19-41
+activity#com.example.final_project.qp_cv2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:148:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:148:19-41
+activity#com.example.final_project.qp_cv1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:149:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:149:19-41
+activity#com.example.final_project.syllabus_cv4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:150:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:150:19-47
+activity#com.example.final_project.syllabus_cv3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:151:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:151:19-47
+activity#com.example.final_project.syllabus_cv2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:152:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:152:19-47
+activity#com.example.final_project.syllabus_cv1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:153:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:153:19-47
+activity#com.example.final_project.tt_cv4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:154:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:154:19-41
+activity#com.example.final_project.tt_cv3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:155:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:155:19-41
+activity#com.example.final_project.tt_cv2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:156:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:156:19-41
+activity#com.example.final_project.tt_cv1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:157:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:157:19-41
+activity#com.example.final_project.cv_fourth_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:158:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:158:19-49
+activity#com.example.final_project.cv_third_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:159:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:159:19-48
+activity#com.example.final_project.cv_second_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:160:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:160:19-49
+activity#com.example.final_project.cv_first_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:161:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:161:19-48
+activity#com.example.final_project.download_qp_ec4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:162:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:162:19-50
+activity#com.example.final_project.download_ebook_ec4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:163:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:163:19-53
+activity#com.example.final_project.ebook_ec4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:164:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:164:19-44
+activity#com.example.final_project.syllabus_ec4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:165:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:165:19-47
+activity#com.example.final_project.qp_ec4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:166:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:166:19-41
+activity#com.example.final_project.tt_ec4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:167:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:167:19-41
+activity#com.example.final_project.qp_ec3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:168:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:168:19-41
+activity#com.example.final_project.download_qp_ec3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:169:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:169:19-50
+activity#com.example.final_project.download_ebook_ec3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:170:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:170:19-53
+activity#com.example.final_project.ebook_ec3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:171:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:171:19-44
+activity#com.example.final_project.syllabus_ec3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:172:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:172:19-47
+activity#com.example.final_project.tt_ec3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:173:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:173:19-41
+activity#com.example.final_project.download_qp_ec2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:174:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:174:19-50
+activity#com.example.final_project.qp_ec2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:175:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:175:19-41
+activity#com.example.final_project.download_ebook_ec2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:176:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:176:19-53
+activity#com.example.final_project.ebook_ec2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:177:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:177:19-44
+activity#com.example.final_project.syllabus_ec2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:178:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:178:19-47
+activity#com.example.final_project.tt_ec2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:179:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:179:19-41
+activity#com.example.final_project.download_qp_ec1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:180:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:180:19-50
+activity#com.example.final_project.download_ebook_ec1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:181:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:181:19-53
+activity#com.example.final_project.ebook_ec1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:182:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:182:19-44
+activity#com.example.final_project.qp_ec1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:183:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:183:19-41
+activity#com.example.final_project.syllabus_ec1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:184:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:184:19-47
+activity#com.example.final_project.tt_ec1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:185:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:185:19-41
+activity#com.example.final_project.ec_fourth_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:186:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:186:19-49
+activity#com.example.final_project.ec_third_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:187:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:187:19-48
+activity#com.example.final_project.ec_second_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:188:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:188:19-49
+activity#com.example.final_project.ec_first_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:189:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:189:19-48
+activity#com.example.final_project.download_qp_cs4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:190:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:190:19-50
+activity#com.example.final_project.qp_cs4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:191:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:191:19-41
+activity#com.example.final_project.download_ebook_cs4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:192:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:192:19-53
+activity#com.example.final_project.ebook_cs4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:193:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:193:19-44
+activity#com.example.final_project.syllabus_cs4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:194:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:194:19-47
+activity#com.example.final_project.tt_cs4
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:195:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:195:19-41
+activity#com.example.final_project.download_ebook_cs3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:196:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:196:19-53
+activity#com.example.final_project.ebook_cs3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:197:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:197:19-44
+activity#com.example.final_project.download_qp_cs3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:198:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:198:19-50
+activity#com.example.final_project.qp_cs3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:199:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:199:19-41
+activity#com.example.final_project.syllabus_cs3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:200:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:200:19-47
+activity#com.example.final_project.tt_cs3
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:201:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:201:19-41
+activity#com.example.final_project.download_ebook_cs2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:202:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:202:19-53
+activity#com.example.final_project.ebook_cs2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:203:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:203:19-44
+activity#com.example.final_project.download_qp_cs2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:204:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:204:19-50
+activity#com.example.final_project.qp_cs2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:205:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:205:19-41
+activity#com.example.final_project.syllabus_cs2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:206:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:206:19-47
+activity#com.example.final_project.tt_cs2
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:207:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:207:19-41
+activity#com.example.final_project.About
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:208:9-43
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:208:19-40
+activity#com.example.final_project.eduwize
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:209:9-45
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:209:19-42
+activity#com.example.final_project.calender_of_events
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:210:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:210:19-53
+activity#com.example.final_project.download_qp_cs1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:211:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:211:19-50
+activity#com.example.final_project.download_ebook_cs1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:212:9-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:212:19-53
+activity#com.example.final_project.cs_fourth_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:213:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:213:19-49
+activity#com.example.final_project.cs_third_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:214:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:214:19-48
+activity#com.example.final_project.cs_second_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:215:9-52
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:215:19-49
+activity#com.example.final_project.ebook_cs1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:216:9-47
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:216:19-44
+activity#com.example.final_project.qp_cs1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:217:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:217:19-41
+activity#com.example.final_project.syllabus_cs1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:218:9-50
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:218:19-47
+activity#com.example.final_project.tt_cs1
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:219:9-44
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:219:19-41
+activity#com.example.final_project.cs_first_year
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:220:9-51
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:220:19-48
+activity#com.example.final_project.cgpa_real
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:221:9-224:59
+	android:label
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:223:13-61
+	android:theme
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:224:13-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:222:13-38
+activity#com.example.final_project.Automobile
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:225:9-48
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:225:19-45
+activity#com.example.final_project.Instrumentation_and_technology
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:226:9-68
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:226:19-65
+activity#com.example.final_project.Information_science
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:227:9-57
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:227:19-54
+activity#com.example.final_project.Civil
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:228:9-43
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:228:19-40
+activity#com.example.final_project.Mechanical
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:229:9-48
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:229:19-45
+activity#com.example.final_project.Electronics_and_Communication
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:230:9-67
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:230:19-64
+activity#com.example.final_project.Computer_Science
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:231:9-54
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:231:19-51
+activity#com.example.final_project.cgpa_calculator
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:232:9-53
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:232:19-50
+activity#com.example.final_project.MainActivity
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:233:9-242:20
+	android:label
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:235:13-45
+	android:theme
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:236:13-56
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:234:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:237:13-241:29
+category#android.intent.category.DEFAULT
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:240:17-76
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:240:27-73
+service#com.example.final_project.FiresbaseNotification
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:244:9-247:40
+	android:enabled
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:246:13-36
+	android:exported
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:247:13-37
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:245:13-50
+uses-permission#android.permission.INTERNET
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:249:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\27dfaf47e13f58bfb1f973fbc04e0b0f\firebase-storage-16.0.4\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\27dfaf47e13f58bfb1f973fbc04e0b0f\firebase-storage-16.0.4\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:249:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:251:5-80
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:251:22-77
+uses-feature#android.hardware.sensor.compass
+ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:253:5-254:35
+	android:required
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:254:9-32
+	android:name
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml:253:19-65
+uses-sdk
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0bbc2c2dcf739c0af36aaa69df34a62e\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0bbc2c2dcf739c0af36aaa69df34a62e\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\90045b44dab740be792617fd581a55a3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\90045b44dab740be792617fd581a55a3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\27dfaf47e13f58bfb1f973fbc04e0b0f\firebase-storage-16.0.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\27dfaf47e13f58bfb1f973fbc04e0b0f\firebase-storage-16.0.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1220e3d5b680bc093d2f245c2fa6f125\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1220e3d5b680bc093d2f245c2fa6f125\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c4f9f537a1040f2120aa7e069daf15d6\firebase-auth-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c4f9f537a1040f2120aa7e069daf15d6\firebase-auth-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e0305dec9354d223710326581bbedaee\firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e0305dec9354d223710326581bbedaee\firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7e33c9a8294262ba8309e3d29e9210d0\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7e33c9a8294262ba8309e3d29e9210d0\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1ca59fa7e8d393e1a350d26e10f43ce4\firebase-database-collection-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1ca59fa7e8d393e1a350d26e10f43ce4\firebase-database-collection-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b9eb1f0c88887c7ee015e73898cfb85\firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b9eb1f0c88887c7ee015e73898cfb85\firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d5a576d25052a6c35b5bcb00f4cdeaf1\play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d5a576d25052a6c35b5bcb00f4cdeaf1\play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bfc07c1a10fa1388e284f392b53f0360\android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bfc07c1a10fa1388e284f392b53f0360\android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\995ec56e031153387aec16a3d5f1a33b\pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\995ec56e031153387aec16a3d5f1a33b\pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b13750c8447f64d6cb582d08f648487a\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b13750c8447f64d6cb582d08f648487a\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d82848c78de2e754a20a693011b9e4e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d82848c78de2e754a20a693011b9e4e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\48dec8bd5918d71d19e0f81798346943\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\48dec8bd5918d71d19e0f81798346943\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\92a3bcb37cb19a5f5119acc11743e288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\92a3bcb37cb19a5f5119acc11743e288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c3924c7e11060e6239bc3857198d5c6c\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c3924c7e11060e6239bc3857198d5c6c\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\f761b0c37c44ad72db8cd018829aeaf1\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\f761b0c37c44ad72db8cd018829aeaf1\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\353e4d1151611c4375c4fb7c62b0a7da\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\353e4d1151611c4375c4fb7c62b0a7da\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\2f080cffecd8248105b2a27918113876\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\2f080cffecd8248105b2a27918113876\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c3606602e7ac73e1b75b34002df6e7de\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c3606602e7ac73e1b75b34002df6e7de\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\855209534f79115f1eae45e65a8594c8\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\855209534f79115f1eae45e65a8594c8\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e6e1db0985f287535886dd441f25e667\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\e6e1db0985f287535886dd441f25e667\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0fde1d8e3b58e154c90d6ea9dfd3cfcc\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\0fde1d8e3b58e154c90d6ea9dfd3cfcc\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\6f8378c8610287ed61666aa434714007\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\6f8378c8610287ed61666aa434714007\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\4805343d14c2772f03f9684bae208aa1\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\4805343d14c2772f03f9684bae208aa1\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\2186becfaafac4437169c89f0ce4427c\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\2186becfaafac4437169c89f0ce4427c\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b89c0cef71e106558a4d5fcd9cb61f29\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b89c0cef71e106558a4d5fcd9cb61f29\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\62d66ff86b85475525ca4a0e09447f51\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\62d66ff86b85475525ca4a0e09447f51\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7322dc9efd3f2ae7a7a63710507ca476\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\7322dc9efd3f2ae7a7a63710507ca476\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\57ec45c9b5e0c1f6a21eac064e202ea3\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\57ec45c9b5e0c1f6a21eac064e202ea3\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d85c2783697a1d765210ec9008c21055\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d85c2783697a1d765210ec9008c21055\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\a350ec10872c09f4ae4ecf2babb7a009\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\a350ec10872c09f4ae4ecf2babb7a009\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\25656cc6767c31b4477df33737473366\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\25656cc6767c31b4477df33737473366\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c65777b32963f90ed4a1d9bb089a240c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c65777b32963f90ed4a1d9bb089a240c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\58fe87430ce7e3ab95a6e1c1236cd8f8\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\58fe87430ce7e3ab95a6e1c1236cd8f8\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8123faa3671cbcf9834b1c3347aaf676\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8123faa3671cbcf9834b1c3347aaf676\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\3645b430f76484b5d37764a58143919b\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\3645b430f76484b5d37764a58143919b\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8996e568157f922fd297fc5bd2fadd9e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8996e568157f922fd297fc5bd2fadd9e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\9564a0099967297e5657ac5846b4f5b9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\9564a0099967297e5657ac5846b4f5b9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c783eb848cc102bfc6438aa79755cad7\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\c783eb848cc102bfc6438aa79755cad7\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1c96fa44bac0cc7343c73a5ba851d83d\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\1c96fa44bac0cc7343c73a5ba851d83d\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\cbd120afe52d5f07ec5a502179d5b765\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\cbd120afe52d5f07ec5a502179d5b765\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop 21st September\Final Year Project\Final_project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\27dfaf47e13f58bfb1f973fbc04e0b0f\firebase-storage-16.0.4\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\27dfaf47e13f58bfb1f973fbc04e0b0f\firebase-storage-16.0.4\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\bd0a03630034896436e451774685cc6c\firebase-auth-16.0.5\AndroidManifest.xml:37:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\b945e3030d71783caa8d98518e0f5c51\firebase-messaging-17.3.4\AndroidManifest.xml:32:25-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\d4a3df275105406502694fba4b6fc85a\firebase-iid-17.0.4\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Saichandra Deshpande\.gradle\caches\transforms-2\files-2.1\fcfc2f1af9e152d856e2173eb57359ec\play-services-basement-16.1.0\AndroidManifest.xml:24:13-58

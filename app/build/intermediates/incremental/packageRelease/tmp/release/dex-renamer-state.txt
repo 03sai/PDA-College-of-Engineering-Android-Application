@@ -1,0 +1,4 @@
+#Thu Apr 23 01:16:49 IST 2020
+base.0=/Users/rahulsidhapurker/Desktop/Final_project/app/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

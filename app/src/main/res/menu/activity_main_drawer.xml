@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/cs"
+            android:title="Computer Science"
+
+            />
+        <item
+            android:id="@+id/EC"
+            android:title="Electronics and Communication" />
+        <item
+            android:id="@+id/cv"
+
+            android:title="Civil" />
+        <item
+            android:id="@+id/mech"
+            android:title="Mechanical" />
+        <item
+            android:id="@+id/is"
+            android:title="Information Science"/>
+        <item
+            android:id="@+id/automobile"
+            android:title="Automobile" />
+
+        <item
+            android:id="@+id/it"
+            android:title="Instrumentation and Technology"/>
+
+    </group>
+
+    <item android:title="Tools and Requirements">
+        <menu>
+            <item
+                android:id="@+id/calci"
+                android:title="SGPA Calculator" />
+
+            <item
+                android:id="@+id/calci_cgpa"
+                android:title="CGPA Calculator"/>
+            <item
+                android:id="@+id/calender"
+                android:title="Calender Of Events" />
+
+            <item
+                android:id="@+id/notice"
+                android:title="Notices"/>
+
+            <item
+                android:id="@+id/eduwize"
+                android:title="Eduwize"/>
+
+            <item
+                android:id="@+id/about"
+                android:title="About"/>
+        </menu>
+    </item>
+
+</menu>
